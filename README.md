@@ -1,4 +1,4 @@
-# AWS Cloud Foundations Study Materials
+<h1 align="center"><img src="docs/images/banner.svg" alt="AWS Cloud Foundations: Study notes for AWS Academy Cloud Foundations."></h1>
 
 > Notes and resources for the AWS Academy Cloud Foundations course (Cloud Practitioner prep).
 
@@ -27,6 +27,10 @@ Per-module notes (Modules 1 to 10), a notes template and an Anki deck for the La
 - [AWS Course Outline](https://docs.google.com/spreadsheets/d/1PznLoDbm4azsqE72rQX9sMcQthpIpd3CmSIVlOCArO8/edit#gid=115683906)
 - [Daily Check-In Form](https://airtable.com/shrVbfR440AeHUvvO)
 - [Practice Exams](https://docs.google.com/document/d/1BwbqaQl5NlEo7FS8okprVsau2GgUwjFeQ_szT5nmn5c/edit)
+
+## Status
+
+Legacy / archived-in-spirit: kept for reference, not under active development. No CI is configured and dependencies are not updated; do not deploy as-is.
 
 ## Security
 
